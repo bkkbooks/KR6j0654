@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0654/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0654/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說却溫黃神咒經
+  identifiers:
+    krp: KR6j0654
+    cbeta: X02n0193
+    cbeta_old_id: X02n0193
+    authorityid: CA0002617
+    json_key: X0193
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0193.xml
+    old_id: X02n0193
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0654_000-X.yaml, hash: 'sha256:51da6ef73eb841a1479988e226ae914671df55673ce2848082f30b7339b05f90'}
+  - {seq: 1, filename: KR6j0654_001-X.yaml, hash: 'sha256:f40b20cf9ad0250eedd05d0bb8a923421baf69e27c090ab95d2b0e70af029852'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0654_000-X.markers.yaml, hash: 'sha256:d63c26a089dffb6e752feb1a0fecb1d2ff45ed72225e707e6f7b191db77faf37'}
+  - {seq: 1, role: markers, filename: assets/KR6j0654_001-X.markers.yaml, hash: 'sha256:1ef0ba3638ae94173ccdb7de8af2e2368e37aed474834f3a7c4bb317c0898626'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0654_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 587
+  label: 佛說却溫黃神呪經
+  type: juan
+  level: 1
+hash: sha256:ff13b9db8d87126a0bc1469b207e4ff913e89e40c27e840e665cb12b7e09ff8b

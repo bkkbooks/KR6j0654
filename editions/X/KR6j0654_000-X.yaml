@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0654/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說却溫黃神咒經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0193.xml
+    old_id: X02n0193
+hash: sha256:51da6ef73eb841a1479988e226ae914671df55673ce2848082f30b7339b05f90
