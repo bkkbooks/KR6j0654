@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0654_000.yaml, hash: 'sha256:51da6ef73eb841a1479988e226ae914671df55673ce2848082f30b7339b05f90'}
-  - {seq: 1, filename: KR6j0654_001.yaml, hash: 'sha256:f1e591023b374f13a8683948ae5b5a3fe7d63b3570686df68895ebaf2fa012da'}
+  - {seq: 1, filename: KR6j0654_001.yaml, hash: 'sha256:f40b20cf9ad0250eedd05d0bb8a923421baf69e27c090ab95d2b0e70af029852'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0654_001.markers.yaml, hash: 'sha256:db78198db6c5ba5ea6e730b983addf36ba6686b270c7b6d18f8a87a6de958ceb'}
+  - {seq: 0, role: markers, filename: assets/KR6j0654_000.markers.yaml, hash: 'sha256:89fe69d8f9e3b6efa3aa292dd1a2b2f8f15f6632b6ec6d4aac8d2f51093f886d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0654_001.markers.yaml, hash: 'sha256:d625a20d3865af285aed95e30e5ad70ba8e352c14589e395578d5dfd6f4b0a99'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說却溫黃神呪經
   type: juan
   level: 1
-hash: sha256:68caeaa12ebf2527f35ee8b5370fae200673a51bfbcc739732224512f4b1ff7e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:08ae3768c185c067aed938f5abb83146276894d61dc270f91a3c5cf4d2dbb71c
